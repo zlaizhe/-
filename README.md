@@ -8,5 +8,5 @@
 
 ## 使用方法：
  1. 将vmid.txt和BiliBiliFans.jar放在同一目录下
- 2. 修改vmid.txt中vmid的数值为你想显示粉丝数的up主的id
+ 2. 修改vmid.txt中vmid的数值为你想显示粉丝数的up主的id (id就是进入个人空间后浏览器地址栏上?之前的数字)
  3. 双击BiliBiliFans.jar（用JRE打开）
